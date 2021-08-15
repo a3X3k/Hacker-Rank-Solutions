@@ -4,7 +4,6 @@ n = int(input())
 for i in range(n):
         
     m = int(input())
-    
     arr = list(map(int, input().split()))
           
     for a in range(len(arr)):
@@ -17,7 +16,6 @@ for i in range(n):
                 
                 print(arr[b], end = " ")
             
-            print()
-                
+            print() 
             index += 1
 ```
