@@ -5,6 +5,7 @@ def birthdayCakeCandles(candles):
     count = 0
     
     for i in candles:
+        
         if i == n:
             count+=1
     
