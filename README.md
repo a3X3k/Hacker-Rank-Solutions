@@ -1,6 +1,6 @@
 # Hacker Rank Solutions
 
-</center>
+<center>
 
 | Challenge           | Difficulty |
 |----------------|---------------|
