@@ -1,6 +1,6 @@
 <div align = "center">
   
-[`Hacker Rank Solutions`]()
+# [`Hacker Rank Solutions`]()
   
 
 | Challenge           | Difficulty |
