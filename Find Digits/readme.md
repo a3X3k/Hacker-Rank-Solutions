@@ -8,7 +8,7 @@ for i in range(n):
     count = 0
     
     for i in m:
-        if i != "0" and int(m)%int(i) == 0:
+        if i != "0" and int(m) % int(i) == 0:
             count += 1
         
     print(count)
