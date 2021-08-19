@@ -1,7 +1,7 @@
 <div align = "center">
   
-# [`Hacker Rank Solutions`]()
-  
+# [`Hacker Rank Solutions`](#)
+</br>  
 
 | Challenge           | Difficulty |
 |----------------|---------------|
@@ -15,7 +15,6 @@
 |  [Print All Subarrays of a given Array](https://github.com/a3X3k/Hacker-Rank-Solutions/tree/main/Print%20All%20Subarrays%20of%20a%20given%20Array/readme.md)  | Medium |
 |  [Swap 2 num without temp](https://github.com/a3X3k/Hacker-Rank-Solutions/tree/main/Swap%202%20num%20without%20temp/readme.md)  | Easy |
 
-  
 </div>
 
 
