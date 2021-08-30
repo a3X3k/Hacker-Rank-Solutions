@@ -6,6 +6,7 @@
 | Challenge           | Difficulty |
 |----------------|---------------|
 | [ATM](https://github.com/a3X3k/Hacker-Rank-Solutions/tree/main/ATM/readme.md)    | Easy |
+|  [Beautiful Triplets](https://github.com/a3X3k/Hacker-Rank-Solutions/blob/main/Beautiful%20Triplets/readme.md)  | Easy |
 | [Birthday Cake Candles](https://github.com/a3X3k/Hacker-Rank-Solutions/tree/main/Birthday%20Cake%20Candles/readme.md)  | Easy |
 |  [Find Digits](https://github.com/a3X3k/Hacker-Rank-Solutions/blob/main/Find%20Digits/readme.md)  | Easy |
 |  [Gender Of Avatars](https://github.com/a3X3k/Hacker-Rank-Solutions/tree/main/Gender%20Of%20Avatars/readme.md)  | Easy |
