@@ -15,6 +15,7 @@ def Is_Power(n):
 def Find_Power(n):
  
     while (n & n - 1):
+    
         n = n & n - 1
  
     return n
